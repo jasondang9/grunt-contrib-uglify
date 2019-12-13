@@ -1,5 +1,5 @@
 {
-  "name": "grunt-contrib-uglify",
+  "name": "grunt-contrib-uglify-es",
   "description": "Minify JavaScript files with UglifyJS",
   "version": "4.0.1",
   "author": {
@@ -18,7 +18,7 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "maxmin": "^2.1.0",
-    "uglify-js": "^3.5.0",
+    "uglify-es": "^3.3.9",
     "uri-path": "^1.0.0"
   },
   "devDependencies": {
